@@ -8,5 +8,5 @@ Trabalho com Helpdesk, porém novo na área de Desenvolvimento.
 
 Atualmente estou cursando JavaScript (curso online), com conhecimento mediano em HTML e CSS; 👨🏽‍💻
 
-Espero aprender/contribuir com todos nessa nova jornada!!!🏽‍🚀
+Espero aprender/contribuir com todos nessa nova jornada!!!🚀
 
